@@ -9,7 +9,8 @@ Currently im still actively working on improving my chess engine while also lear
 You can find me at LinkedIn here: www.linkedin.com/in/nik-pluzek-92a1b1296
 
 For more info about me and my skills, here is my CV:
-[Github-CV-Nikodem-Pluzek.pdf](https://github.com/user-attachments/files/29096472/Github-CV-Nikodem-Pluzek.pdf)
+[Nikodem-Pluzek-CV.pdf](https://github.com/user-attachments/files/29097311/Nikodem-Pluzek-CV.pdf)
+
 
 <!--
 **NikPluzek/NikPluzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
