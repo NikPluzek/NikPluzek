@@ -1,10 +1,10 @@
 ## Hi there, I'm Nik Pluzek👋
-I am a Computer Science graduate with a year of industry expereince working as a Software Engineer at Jaguar Land Rover, and a stron passion for game development
+I am a Computer Science graduate with a year of industry experience working as a Software Engineer at Jaguar Land Rover, and a strong passion for game development
 
-I enjoy building projects from scratch like my Chess engine and Dashtro game, but also have experience working on large codebases with several contributors from my time at Jaguar Land Rover.
+I enjoy building projects from scratch, like my Chess engine and Dashtro game, but I also have experience working on large codebases with multiple contributors from my time at Jaguar Land Rover.
 
 <h2>What I'm working on currently</h2>
-Currently, I am working on a web app along with a friend that can detect whether an image has been made with AI, additionally, I'm still actively working on improving my chess engine while also learning Unreal Engine. Looking for opportunities to help me grow as a developer and as an individual.
+Currently, I am working on a web app with a friend that can detect whether an image was made with AI. Additionally, I'm still actively working on improving my chess engine while also learning Unreal Engine. Looking for opportunities to help me grow as a developer and as an individual.
 
 You can find me at LinkedIn here: www.linkedin.com/in/nik-pluzek-92a1b1296
 
